@@ -7,7 +7,7 @@ import (
 	"time"
 
 	"github.com/jonas747/discordgo"
-	"github.com/jonas747/dstate/v3"
+	"github.com/RX3Y/dstate/v3"
 )
 
 type TrackerConfig struct {
